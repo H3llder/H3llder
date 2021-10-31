@@ -11,7 +11,9 @@
 
 ##
 
-<div style="display: flex; flex-Direction: "row"; justify-content: "space-around"><br>
+<div align="left">
+
+ <div style="display: flex; flex-Direction: "row"; justify-content: "space-around"><br>
   <!--Competências e Habilidades-->
                                                                                  
   <h3>Design</h3>
@@ -27,5 +29,9 @@
   <img align="center" alt="Helder-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Helder-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"><img align="center" alt="Helder-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
+ 
+</div>
+
+<div align="right"><img width="380" height="300" src="https://pandatoryu.files.wordpress.com/2013/03/naruto-sd-gif-de-14ssjgoku-visite-pandatoryu.gif"></div>
 
 #
