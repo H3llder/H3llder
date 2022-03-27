@@ -1,11 +1,9 @@
- ## Olá, Helder aqui! <br>
- ◾ 📚 I'm a Systems Development Student <br>
- ◾ 🇧🇷 16 years old <br>
- ◾ 📍 Aparecida-SP <br>
- ◾ 🎨 Front-end
+ # Oii, Helder aqui!
+ 
+ * Espero que goste do meu perfil🤘
  
  <a href="https://github.com/H3llder">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=H3llder&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="300px" src="https://github-readme-stats.vercel.app/api?username=H3llder&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3llder&layout=compact&langs_count=7&theme=merko"/>
 </div>
 
@@ -34,4 +32,3 @@
 
 <div align="right"><img width="380" height="300" src="https://pandatoryu.files.wordpress.com/2013/03/naruto-sd-gif-de-14ssjgoku-visite-pandatoryu.gif"></div>
 
-#
