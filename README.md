@@ -1,11 +1,11 @@
 <div align="center"><h1>H3llder</h1></div>
 
-# Falaa povo, bem vindos ao meu perfil. Eu espero que gostem!
 <div align="center">
   <h2>Minhas Tecnologias</h2>
   
   <p>
-  
+    📍 Aparecida-SP
+    📌 3º Desenvolvimento de Sistemas 
   </p>
 </div>
 
