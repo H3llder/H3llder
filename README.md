@@ -2,7 +2,7 @@
 
 # Falaa povo, bem vindos ao meu perfil. Eu espero que gostem!
 <div align="center">
-  ## Minhas Tecnologias
+  <h2>Minhas Tecnologias</h2>
   
   <p>
   
