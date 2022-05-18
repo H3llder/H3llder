@@ -17,9 +17,7 @@
 ```js
   Hello World! 🖖
 ```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3llder&show_icons=true&theme=radical)
 
-<div align="center">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3llder&show_icons=true&theme=radical)
-</div>
 
 
