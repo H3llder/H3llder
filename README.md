@@ -19,9 +19,7 @@
 ```
 
 <div align="center">
-  <a href="https://github.com/H3llder">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=H3llder&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H3llder&layout=compact&langs_count=7&theme=onedark"/>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?H3llder=anuraghazra&show_icons=true&theme=radical)
 </div>
 
 
