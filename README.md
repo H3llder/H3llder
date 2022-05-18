@@ -1,9 +1,9 @@
 ![Header](./Header_H3llder.png)
 
-  
-## Minhas Tecnologias
 
 <div align="center">
+  
+# Minhas Tecnologias
   
   <div style="display: flex; margin: 20px 0; justify-content: space-around;">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
