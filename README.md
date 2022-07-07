@@ -25,4 +25,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=H3llder&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3llder&layout=compact)](https://github.com/H3llder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H3llder&layout=compact&theme=radical)](https://github.com/H3llder/github-readme-stats)
