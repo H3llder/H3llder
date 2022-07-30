@@ -1,6 +1,3 @@
-![Header](./Header_H3llder.png)
-
-
 <div align="center">
   
 # Minhas Tecnologias
@@ -19,7 +16,7 @@
 ##
 
 ```js
-  Hello World! 🖖
+  Olá mundo! 🖖
 ```
 
 
